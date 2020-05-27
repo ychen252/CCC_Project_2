@@ -1,0 +1,310 @@
+sa2_name16, sa2_code_2016, median_aud
+"Prahran - Windsor","206061136",51885
+"Collingwood","206071141",45344
+"Hadfield","210031440",37389
+"Sunbury","210041240",44043
+"Sunbury - South","210041241",43823
+"Fitzroy","206071142",45197
+"Hughesdale","208021180",41925
+"Point Cook - South","213051466",51518
+"Blackburn South","207031162",40423
+"Surrey Hills (East) - Mont Albert","207031167",49139
+"Brighton East","208011170",47872
+"Cheltenham - Highett (West)","208011171",44209
+"Hampton","208011172",48477
+"Brunswick","206011105",43008
+"Brunswick East","206011106",46237
+"Pascoe Vale South","206011109",44416
+"Docklands","206041118",49346
+"East Melbourne","206041119",60513
+"Flemington Racecourse","206041120",48740
+"South Yarra - West","206041125",58838
+"Bentleigh East (South)","208021427",41669
+"Bentleigh - McKinnon","208021174",44004
+"Aspendale Gardens - Waterways","208031183",44163
+"Murrumbeena","208021181",44201
+"Braeside","208031184",58091
+"Southbank","206041126",49364
+"Chelsea Heights","208031187",42671
+"Carnegie","208021176",42889
+"Coburg","206011108",41503
+"Brunswick West","206011107",44633
+"Alphington - Fairfield","206021110",49096
+"Ormond - Glen Huntly","208021182",41884
+"Northcote","206021111",48587
+"West Melbourne","206041127",null
+"Thornbury","206021112",43430
+"Port Melbourne","206051130",61707
+"Ascot Vale","206031113",48665
+"Essendon - Aberfeldie","206031114",47838
+"Flemington","206031115",43810
+"Moonee Ponds","206031116",51042
+"Carlton","206041117",35226
+"Kensington (Vic.)","206041121",53822
+"Melbourne","206041122",35582
+"Armadale","206061135",53487
+"North Melbourne","206041123",42504
+"Parkville","206041124",40794
+"Albert Park","206051128",58131
+"Elwood","206051129",54759
+"Port Melbourne Industrial","206051131",62148
+"South Melbourne","206051132",57665
+"St Kilda","206051133",48382
+"St Kilda East","206051134",47292
+"South Yarra - East","206061137",52061
+"Toorak","206061138",60743
+"Abbotsford","206071139",48172
+"Carlton North - Princes Hill","206071140",46969
+"Fitzroy North","206071143",50488
+"Richmond (Vic.)","206071144",53171
+"Yarra - North","206071145",55292
+"Ashburton (Vic.)","207011146",47011
+"Balwyn","207011147",43593
+"Camberwell","207011149",50533
+"Balwyn North","207011148",43746
+"Kew","207011153",52114
+"Glen Iris - East","207011150",51299
+"Hawthorn","207011151",50264
+"Hawthorn East","207011152",51109
+"Kew East","207011154",48951
+"Surrey Hills (West) - Canterbury","207011155",52335
+"Bulleen","207021156",39887
+"Doncaster","207021157",37282
+"Templestowe","207021159",42455
+"Templestowe Lower","207021160",39524
+"Doncaster East (North)","207021424",37847
+"Doncaster East (South)","207021425",36401
+"Blackburn","207031161",41648
+"Box Hill","207031163",37658
+"Caulfield - North","208021177",48581
+"Box Hill North","207031164",41493
+"Burwood","207031165",34743
+"Burwood East","207031166",35353
+"Bentleigh East (North)","208021426",43040
+"Beaumaris","208011168",45946
+"Caulfield - South","208021178",46447
+"Brighton (Vic.)","208011169",56905
+"Elsternwick","208021179",48479
+"Sandringham - Black Rock","208011173",50185
+"Carrum - Patterson Lakes","208031185",45000
+"Chelsea - Bonbeach","208031186",43605
+"Cheltenham - Highett (East)","208031188",41845
+"Mentone","208031190",43752
+"Edithvale - Aspendale","208031189",44290
+"Bundoora - East","209011196",39703
+"Moorabbin - Heatherton","208031191",42376
+"Moorabbin Airport","208031192",null
+"Greensborough","209011197",43810
+"Watsonia","209011204",43222
+"Mordialloc - Parkdale","208031193",44714
+"Kingsbury","209021205",38688
+"Reservoir - East","209021207",37961
+"Reservoir - West","209021208",38177
+"Essendon Airport","210011227",null
+"Malvern - Glen Iris","208041194",52091
+"Preston - West","209021429",41372
+"Malvern East","208041195",47698
+"Eltham","209031209",46312
+"Hurstbridge","209031210",43141
+"Kinglake","209031211",37217
+"Panton Hill - St Andrews","209031212",40511
+"Plenty - Yarrambat","209031213",45818
+"Research - North Warrandyte","209031214",45096
+"Heidelberg - Rosanna","209011198",45367
+"Bundoora - West","209041217",39438
+"Lalor","209041219",35360
+"Heidelberg West","209011199",38069
+"Ivanhoe","209011200",49507
+"Ivanhoe East - Eaglemont","209011201",51758
+"Montmorency - Briar Hill","209011202",45159
+"Viewbank - Yallambie","209011203",44398
+"Preston - East","209021428",38440
+"Wattle Glen - Diamond Creek","209031215",45161
+"Epping - East","209041431",40203
+"Epping - South","209041432",38831
+"Bundoora - North","209041216",40372
+"Epping - West","209041433",44644
+"Mernda","209041434",48038
+"South Morang (North)","209041435",46157
+"Mill Park - North","209041220",40619
+"Mill Park - South","209041221",40136
+"Airport West","210011226",43060
+"Thomastown","209041223",35671
+"Wallan","209041224",42570
+"Whittlesea","209041225",39999
+"Doreen","209041430",49335
+"South Morang (South)","209041436",43064
+"Wollert","209041437",43421
+"Keilor","210011228",43066
+"Keilor East","210011229",41181
+"Niddrie - Essendon West","210011230",45289
+"Strathmore","210011231",46882
+"Gisborne","210021232",44347
+"Cranbourne","212031300",39374
+"Cranbourne East","212031301",43937
+"Macedon","210021233",43542
+"Riddells Creek","210021234",43545
+"Romsey","210021235",40991
+"Coburg North","210031236",38986
+"Fawkner","210031237",34700
+"Glenroy","210031438",36716
+"Pascoe Vale","210031239",43644
+"Gowanbrae","210031439",48500
+"Broadmeadows","210051242",32189
+"Meadow Heights","210051247",32638
+"Melbourne Airport","210051248",31426
+"Campbellfield - Coolaroo","210051243",31422
+"Gladstone Park - Westmeadows","210051245",41493
+"Greenvale - Bulla","210051246",40892
+"Croydon South","211031452",40868
+"Roxburgh Park - Somerton","210051249",37393
+"Tullamarine","210051250",42842
+"Craigieburn - Central","210051441",40768
+"Craigieburn - North","210051442",44933
+"Craigieburn - West","210051444",44595
+"Mickleham - Yuroke","210051445",41649
+"Bayswater","211011251",40927
+"Knoxfield - Scoresby","211011254",40915
+"Craigieburn - South","210051443",40752
+"Lysterfield","211011255",45458
+"Rowville - North","211011257",44183
+"Rowville - South","211011258",44653
+"Wantirna","211011259",40685
+"Wantirna South","211011260",40061
+"Rowville - Central","211011256",41374
+"Boronia","211011446",40686
+"Ferntree Gully (North)","211011447",41155
+"Croydon Hills - Warranwood","211031265",43078
+"Ringwood","211031266",40596
+"Ferntree Gully (South) - Upper Ferntree Gully","211011448",41336
+"Ringwood East","211031267",42352
+"Ringwood North","211031268",43382
+"The Basin","211011449",43148
+"Donvale - Park Orchards","211021261",43382
+"Warrandyte - Wonga Park","211021262",45390
+"Croydon - East","211031450",41263
+"Croydon - West","211031451",39276
+"Bayswater North","211031263",42309
+"Forest Hill","211041269",38366
+"Mitcham (Vic.)","211041270",43564
+"Vermont","211041272",41733
+"Vermont South","211041273",39889
+"Nunawading","211041271",41263
+"Belgrave - Selby","211051274",41272
+"Chirnside Park","211051275",40085
+"Healesville - Yarra Glen","211051276",36044
+"Kilsyth","211051277",38966
+"Lilydale - Coldstream","211051278",40320
+"Monbulk - Silvan","211051279",35773
+"Montrose","211051280",41037
+"Mooroolbark","211051281",40601
+"Mount Dandenong - Olinda","211051282",40884
+"Pakenham - North","212011291",41210
+"Mount Evelyn","211051283",40132
+"Endeavour Hills - South","212021454",38946
+"Lynbrook - Lyndhurst","212031306",46036
+"Pearcedale - Tooradin","212031308",39552
+"Upwey - Tecoma","211051284",41412
+"Wandin - Seville","211051285",38187
+"Yarra Valley","211051286",36362
+"Beaconsfield - Officer","212011287",43827
+"Bunyip - Garfield","212011288",37024
+"Emerald - Cockatoo","212011289",40606
+"Koo Wee Rup","212011290",35931
+"Pakenham - South","212011292",41926
+"Berwick - North","212021293",42846
+"Berwick - South","212021294",45170
+"Doveton","212021295",34673
+"Hallam","212021297",38647
+"Narre Warren North","212021299",42661
+"Endeavour Hills - North","212021453",39797
+"Narre Warren - North East","212021455",40810
+"Narre Warren - South West","212021456",39979
+"Cranbourne North","212031302",42468
+"Cranbourne South","212031303",42170
+"Cranbourne West","212031304",41100
+"Hampton Park - Lynbrook","212031305",38749
+"Narre Warren South (East)","212031457",43478
+"Narre Warren South (West)","212031458",42115
+"Clarinda - Oakleigh South","212041309",39159
+"Clayton South","212041310",35164
+"Dandenong","212041311",33659
+"Dandenong North","212041312",36078
+"Dingley Village","212041313",41534
+"Noble Park - East","212041459",35148
+"Keysborough","212041314",38974
+"Noble Park North","212041316",38321
+"Springvale","212041317",31288
+"Springvale South","212041318",34214
+"Noble Park - West","212041460",34397
+"Ashwood - Chadstone","212051319",40238
+"Clayton","212051320",31334
+"Glen Waverley - East","212051321",37120
+"Glen Waverley - West","212051322",36023
+"Mount Waverley - North","212051323",38204
+"Mount Waverley - South","212051324",38865
+"Mulgrave","212051325",40175
+"Oakleigh - Huntingdale","212051326",40547
+"Wheelers Hill","212051327",40338
+"Ardeer - Albion","213011328",35935
+"Cairnlea","213011329",41989
+"Keilor Downs","213011332",40056
+"Deer Park - Derrimut","213011330",41611
+"Delahey","213011331",40022
+"Kings Park (Vic.)","213011333",37309
+"St Albans - North","213011334",34095
+"Altona North","213021343",40503
+"St Albans - South","213011335",34468
+"Sunshine North","213011337",35016
+"Sunshine","213011336",33867
+"Sydenham","213011339",40341
+"Sunshine West","213011338",36656
+"Taylors Lakes","213011340",41488
+"Altona","213021341",43640
+"Altona Meadows","213021342",41884
+"Newport","213021344",51150
+"Seabrook","213021345",44568
+"Williamstown","213021346",51787
+"West Footscray - Tottenham","213031351",41060
+"Braybrook","213031347",36267
+"Footscray","213031348",35892
+"Maribyrnong","213031349",44859
+"Seddon - Kingsville","213031350",49316
+"Yarraville","213031352",51803
+"Bacchus Marsh","213041353",42331
+"Hillside","213041355",44002
+"Melton","213041356",40702
+"Melton South","213041357",40932
+"Melton West","213041358",43406
+"Rockbank - Mount Cottrell","213041359",37747
+"Taylors Hill","213041360",46129
+"Burnside","213041461",42667
+"Hoppers Crossing - South","213051362",41112
+"Burnside Heights","213041462",45939
+"Caroline Springs","213041463",47548
+"Hoppers Crossing - North","213051361",41858
+"Laverton","213051363",37038
+"Tarneit","213051365",45539
+"Truganina","213051366",46055
+"Werribee - South","213051368",41355
+"Wyndham Vale","213051369",45369
+"Point Cook - East","213051464",55149
+"Point Cook - North","213051465",50463
+"Werribee - East","213051467",40270
+"Werribee - West","213051468",43573
+"Carrum Downs","214011370",41446
+"Frankston","214011371",38274
+"Frankston North","214011372",36113
+"Frankston South","214011373",40351
+"Langwarrin","214011374",41660
+"Seaford (Vic.)","214011375",40291
+"Skye - Sandhurst","214011376",45518
+"Dromana","214021377",32958
+"Flinders","214021378",37192
+"Hastings - Somers","214021379",37453
+"Mornington","214021380",37809
+"Mount Eliza","214021381",43164
+"Mount Martha","214021382",39321
+"Point Nepean","214021383",31802
+"Rosebud - McCrae","214021384",31093
+"Somerville","214021385",39512
