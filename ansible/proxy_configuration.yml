@@ -1,0 +1,10 @@
+# proxy-configuration
+
+- hosts: all_servers
+  vars_files:
+    - variables/variables.yml
+  remote_user: ubuntu
+  gather_facts: true
+
+  roles:
+    - role: proxy-configuration

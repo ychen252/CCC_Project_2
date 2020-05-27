@@ -1,0 +1,9 @@
+# upload the front end code and run the webserver
+# upload the script which is to solve the cross-domain problem and populate the database
+
+- name: upload a script to populate the data
+  become: yes
+  copy:
+    src: ./data-populate.sh
+    dest: /home/ubuntu/
+    mode: 0777
