@@ -1,0 +1,118 @@
+<!--
+"""
+Team 47
+Guoning Qi 1022700
+Longxuan Xu 963988
+Hongju Xia 957832
+Yihan Chen 1060155
+Yuxuan Chen 1035457
+"""
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CCC project group 57</title>
+    <style type="text/css">
+        body{
+            font-family: Verdana, serif;
+            background-color: cornsilk;
+        }
+        /*display*/
+        #wrapper{
+            display: grid;
+            grid-gap: 1% 1%;
+            grid-template-rows: 215px 200px 60px 50px 100px;
+			grid-template-columns: 25% 15% 15% 15% 25%;
+			grid-template-areas:
+				"devil logo logo logo angel"
+				"devil title title title angel"
+				"devil description description description angel"
+				"devil selection selection selection angel"
+				". . story . ."
+        }
+        #container1{
+            grid-area: logo;
+            text-align: center;
+        }
+        #container2{
+            grid-area: title;
+            color: blue;
+            text-align: center;
+            margin: 0;
+        }
+        #container3{
+            grid-area: description;
+            color: black;
+            font-size: 1.3em;
+            text-align: center;
+        }
+        #container4{
+            grid-area: selection;
+            color: blue;
+            font-size: 30px;
+            padding: 10px;
+            font-weight: bold;
+            text-align: center;
+        }
+        #container5{
+            grid-area: story;
+            text-align: center;
+        }
+        #container6
+        {
+            grid-area: pride;
+            text-align: center;
+            border: 1px solid rgba(0,0,0,0.8);
+        }
+        }
+        .button{
+            background-color: black;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 24px;
+			font-weight: bold;
+			margin: 4px 2px;
+			cursor: pointer;
+        }
+    </style>
+
+</head>
+<body>
+<div id="wrapper"></div>
+     <div id="container1" class="one">
+           <img src="/static/Unimelb.jpeg" width="215" , height="200" >
+     </div>
+     <div id="container2" class="two">
+         <h1> Cluster and Cloud Computing Twitter Project <br>
+                          group 47<br>
+         </h1>
+     </div>
+     <div id="container3" class="three">
+         <section>The project is to explore ARUIN data and Twitter data</section>
+     </div>
+     <div id="container4" class="four">
+
+			<section>Go to</section>
+
+		</div>
+
+<!-- Button -->
+		<div id="container5" class="five">
+
+			<a href="http://127.0.0.1:5000/linechart1" class="button">Story</a>
+
+		</div>
+
+
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<!--
+"""
+Team 47
+Guoning Qi 1022700
+Longxuan Xu 963988
+Hongju Xia 957832
+Yihan Chen 1060155
+Yuxuan Chen 1035457
+"""
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Charts</title>
+    <script src="/static/echarts.min.js"></script>
+</head>
+<body>
+       <h1>Income</h1>
+       <div id="Income" style="width: 600px; height: 400px;"></div>
+       <h1>Density</h1>
+       <div id="Density" style="width: 600px; height: 400px;"></div>
+       <script type="text/javascript">
+           var incomechart = echarts.init(document.getElementById('Income'));
+           var densitychart = echarts.init(document.getElementById('Density'));
+
+           incomechart.setOption({{ income_options | safe}});
+           densitychart.setOption({{ density_options | safe}});
+       </script>
+</body>
+</html>
